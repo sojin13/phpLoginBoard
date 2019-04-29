@@ -28,7 +28,7 @@
     <br>
     <a href="gChart/195-2-surveyResultPieChart">투표결과 파이차트로 보기</a>
     <br>
-    <a href="webEditor196-editorForm.php">간단한 코딩에디터</a>
+    <a href="webEditor/196-editorForm.php">간단한 코딩에디터</a>
     <br>
     <a href="parsing/200-1-selectForm.php">실시간 검색어 1위 키워드</a>
     <br>

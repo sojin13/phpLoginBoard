@@ -23,7 +23,7 @@
             xhttp.onreadystatechange = function() {
                 if(this.readyState == 4 && this.status == 200) {
 
-                    result = JSON.parse(this.responseText);
+                    result = JSON.parse(this.responseText);                    
 
                     console.log('result is ' + JSON.stringify(result));
 
